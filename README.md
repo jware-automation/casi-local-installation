@@ -6,10 +6,19 @@ When the script file is run, the docker software will be installed according to 
 * [Installation](#installation)
 * [Usage](#usage)
 ## Installation
-1. Download and extract a ZIP file, and run a Bash script in the terminal on a Linux system
-2. In correct bash file directory you should run these commands
- ### chmod +x casi-setup-linux.sh
- After that
- ### ./casi-setup-linux.sh
+### Linux / MacOS
+1. Download and extract a ZIP file.
+2. Navigate to the directory where the sh file is located: Use the cd command to change to the appropriate directory.
+3. Run this command
+ #### chmod +x casi-setup-linux.sh 
+4. Run the sh file: Execute the bash script by typing its name (including the file extension) and pressing Enter.
+ #### ./casi-setup-linux.sh
+### Windows
+1. Download and extract a ZIP file.
+2. Set Execution Policy (if required): If your system has a restricted execution policy that prevents running scripts, you may need to change the execution policy. To do so, run PowerShell as an administrator and execute the following command:
+ #### Set-ExecutionPolicy RemoteSigned
+3. Navigate to the directory where the ps1 file is located: Use the cd command to change to the appropriate directory.
+4. Run this command
+ #### .\casi-setup-windows.ps1
 
 
