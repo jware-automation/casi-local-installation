@@ -5,11 +5,11 @@ When the script file is run, the docker software will be installed according to 
 ## Table of contents
 * [Installation](#installation)
 * [Usage](#usage)
-##Installation
+## Installation
 1. Download and extract a ZIP file, and run a Bash script in the terminal on a Linux system
 2. In correct bash file directory you should run these commands
- chmod +x casi-setup-linux.sh
+ ### chmod +x casi-setup-linux.sh
  After that
- ./casi-setup-linux.sh
+ ### ./casi-setup-linux.sh
 
 
