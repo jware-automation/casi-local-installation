@@ -16,6 +16,7 @@ When the script file is run, the docker software will be installed according to 
  #### ./casi-setup-linux.sh
 ### Windows
 1. Download and extract a ZIP file.
+* [casi-setup-windows.ps1](https://drive.google.com/file/d/19In_NotRdIwmptEMliWtnzcxTJ9E2KOG/view?usp=sharing)
 2. Set Execution Policy (if required): If your system has a restricted execution policy that prevents running scripts, you may need to change the execution policy. To do so, run PowerShell as an administrator and execute the following command:
  #### Set-ExecutionPolicy RemoteSigned
 3. Navigate to the directory where the ps1 file is located: Use the cd command to change to the appropriate directory.
