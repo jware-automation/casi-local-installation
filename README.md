@@ -22,5 +22,7 @@ When the script file is run, the docker software will be installed according to 
 3. Navigate to the directory where the ps1 file is located: Use the cd command to change to the appropriate directory.
 4. Run this command
  #### .\casi-setup-windows.ps1
+## Usage
+After completing these steps you will able to run the casi application on localhost:3000
 
 
