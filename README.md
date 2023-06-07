@@ -11,7 +11,7 @@ When the script file is run, the docker software will be installed according to 
 * [casi-setup-linux.sh](https://drive.google.com/file/d/1aWJg82h1IydjDT9zm-13rHEMnMo0939W/view)
 2. Navigate to the directory where the sh file is located: Use the cd command to change to the appropriate directory.
 3. Run this command
-chmod +x casi-setup-linux.sh 
+##### chmod +x casi-setup-linux.sh 
 4. Run the sh file: Execute the bash script by typing its name (including the file extension) and pressing Enter.
  #### ./casi-setup-linux.sh
 ### Windows
