@@ -23,7 +23,7 @@ When the script file is run, the docker software will be installed according to 
 4. Run this command
  #### .\casi-setup-windows.ps1
 ## Usage
-By completing the provided instructions, you will have set up the CASI application to run on localhost using port 3000. This means that after the setup, you can access and interact with the CASI application by opening your web browser and navigating to http://localhost:3000. After completing the registration and logging into your account, you will need to purchase a package in order to add devices to the dashboard.
+By completing the provided instructions, you will have set up the CASI application to run on localhost using port 3000. This means that after the setup, you can access and interact with the CASI application by opening your web browser and navigating to http://localhost:3000. After completing the registration and logging into your account, you will need to purchase a package in order to add devices to the dashboard. Please ensure that you use the same email address during the purchase process as you used for logging in.
 #### Purchasing
 To purchase an appropriate package, please visit the official website of CASI at https://casi.io.
 
