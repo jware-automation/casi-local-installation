@@ -8,7 +8,7 @@ When the script file is run, the docker software will be installed according to 
 ## Installation
 ### Linux / MacOS
 1. Download and extract a ZIP file.
-* [casi-setup-linux.sh](https://gist.github.com/janith-jware/7798d2cf55120f80b81947b4b8046e23/archive/60a7920efcb7a45c8c572ba0ff6a5fa5dabda840.zip)
+* [casi-setup-linux.sh](https://gist.github.com/janith-jware/7798d2cf55120f80b81947b4b8046e23/archive/117cb0c199395baeb9d441184b0b8fe60b9eac02.zip)
 2. Navigate to the directory where the sh file is located: Use the cd command to change to the appropriate directory.
 3. Run this command
 #### Alternatively, run following command on your terminal.
